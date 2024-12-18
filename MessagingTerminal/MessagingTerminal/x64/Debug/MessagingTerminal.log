@@ -1,0 +1,13 @@
+﻿  BufferHandler.cpp
+C:\Users\laptop\Repositories\MessagingTerminal\MessagingTerminal\BufferHandler.cpp(20,49): warning C4477: 'snprintf' : format string '%i' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      C:\Users\laptop\Repositories\MessagingTerminal\MessagingTerminal\BufferHandler.cpp(20,49):
+      consider using '%zi' in the format string
+  
+  ContactList.cpp
+  MainMenu.cpp
+  MessageDisplay.cpp
+  MessagingTerminal.cpp
+  OutboundBufferHandler.cpp
+  Generating Code...
+C:\Users\laptop\Repositories\MessagingTerminal\MessagingTerminal\MessageDisplay.cpp(39,1): warning C4715: 'MessageDisplay::getInput': not all control paths return a value
+  MessagingTerminal.vcxproj -> C:\Users\laptop\Repositories\MessagingTerminal\x64\Debug\MessagingTerminal.exe
